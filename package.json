@@ -1,0 +1,15 @@
+{
+  "name": "ronsaupedia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The lore of Bal'lazath legends",
+  "type": "module",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.7",
+    "gray-matter": "^4.0.3"
+  }
+}

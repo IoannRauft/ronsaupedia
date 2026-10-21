@@ -1,0 +1,8 @@
+body { margin: 0; font: 17px/1.6 Georgia, serif; background: #16130f; color: #e8dfd0; }
+header { padding: 1rem 1.5rem; border-bottom: 1px solid #3a3128; }
+header a { color: #e0a458; font-weight: bold; text-decoration: none; }
+main { max-width: 46rem; margin: 0 auto; padding: 1.5rem; }
+a { color: #e0a458; }
+img { max-width: 100%; height: auto; border-radius: 6px; }
+hr { border: 0; border-top: 1px solid #3a3128; margin: 2rem 0; }
+.is-unresolved { color: #9a8f80; border-bottom: 1px dashed #5a5045; }
