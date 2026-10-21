@@ -1,0 +1,4 @@
+# The site is plain static HTML, so no build step is needed.
+[build]
+  command = ""
+  publish = "public"
